@@ -1,4 +1,4 @@
-# Maltimart Ecommerce
+# Trends Ecommerce
 
 ## 📌 Live Demo
 https://multimart-ecommerce.onrender.com
